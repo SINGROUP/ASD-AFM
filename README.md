@@ -26,3 +26,5 @@ To create the datasets and train the models, run `jupyter notebook` in the repos
 Alternatively, run the script `generate_data.py` to generate the datasets and the script `train_models.py` to train the models.
 
 The folder `pretrained_weights` holds the weights for pretrained models on the two datasets.
+
+To make the configuration matching for experimental AFM images, run the `experiment_1S-Camphor.ipynb` notebook. You don't need to train a model to run this notebook.
